@@ -1,0 +1,35 @@
+{
+    "variants": {
+        
+        "facing=up,filled=3": { "model": "smf:coffeeMachine" },
+
+        "facing=east,filled=3": { "model": "smf:coffeeMachine", "y":270 },
+
+        "facing=south,filled=3": { "model": "smf:coffeeMachine" },
+
+        "facing=west,filled=3": { "model": "smf:coffeeMachine", "y": 90 },
+
+        "facing=north,filled=3": { "model": "smf:coffeeMachine", "y": 180},
+        
+        "facing=up,filled=2": { "model": "smf:coffeeMachineCupFull" },
+
+        "facing=east,filled=2": { "model": "smf:coffeeMachineCupFull", "y":270 },
+
+        "facing=south,filled=2": { "model": "smf:coffeeMachineCupFull" },
+
+        "facing=west,filled=2": { "model": "smf:coffeeMachineCupFull", "y": 90 },
+
+        "facing=north,filled=2": { "model": "smf:coffeeMachineCupFull", "y": 180},
+        
+        "facing=up,filled=1": { "model": "smf:coffeeMachineCupEmpty" },
+
+        "facing=east,filled=1": { "model": "smf:coffeeMachineCupEmpty", "y":270 },
+
+        "facing=south,filled=1": { "model": "smf:coffeeMachineCupEmpty" },
+
+        "facing=west,filled=1": { "model": "smf:coffeeMachineCupEmpty", "y": 90 },
+
+        "facing=north,filled=1": { "model": "smf:coffeeMachineCupEmpty", "y": 180}
+
+    }
+}

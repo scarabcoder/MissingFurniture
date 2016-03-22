@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "inventory": {"model": "smf:shelf"},
+        
+        "facing=up": { "model": "smf:shelf" },
+
+        "facing=east": { "model": "smf:shelf", "y":270 },
+
+        "facing=south": { "model": "smf:shelf" },
+
+        "facing=west": { "model": "smf:shelf", "y": 90 },
+
+        "facing=north": { "model": "smf:shelf", "y": 180}
+
+    }
+}

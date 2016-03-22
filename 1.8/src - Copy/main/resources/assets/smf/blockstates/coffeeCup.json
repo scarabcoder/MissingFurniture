@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": {"model": "smf:coffeeCup"},
+        
+        "facing=up": { "model": "smf:coffeeCup" },
+
+        "facing=east": { "model": "smf:coffeeCup", "y":270 },
+
+        "facing=south": { "model": "smf:coffeeCup" },
+
+        "facing=west": { "model": "smf:coffeeCup", "y": 90 },
+
+        "facing=north": { "model": "smf:coffeeCup", "y": 180}
+
+    }
+}

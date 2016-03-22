@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "inventory": {"model": "smf:coffeeMachine"},
+        
+        "facing=up": { "model": "smf:coffeeMachine" },
+
+        "facing=east": { "model": "smf:coffeeMachine", "y":270 },
+
+        "facing=south": { "model": "smf:coffeeMachine" },
+
+        "facing=west": { "model": "smf:coffeeMachine", "y": 90 },
+
+        "facing=north": { "model": "smf:coffeeMachine", "y": 180}
+
+    }
+}

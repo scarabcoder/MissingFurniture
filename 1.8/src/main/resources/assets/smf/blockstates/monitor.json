@@ -1,0 +1,15 @@
+{
+    "variants": {
+
+        "facing=up": { "model": "smf:monitor" },
+
+        "facing=east": { "model": "smf:monitor", "y":270 },
+
+        "facing=south": { "model": "smf:monitor" },
+
+        "facing=west": { "model": "smf:monitor", "y": 90 },
+
+        "facing=north": { "model": "smf:monitor", "y": 180}
+
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "smf",
+    "name": "Scarab's Missing Furniture Mod",
+    "description": "Adds those little missing blocks to your game! (Credit to MrCrayfish for his tutorials)",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "http://www.scarabcoder.com",
+    "updateUrl": "",
+    "authorList": [ "ScarabCoder" ]
+  }]
+}

@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": {"model": "smf:microphone"},
+        
+        "facing=up": { "model": "smf:microphone" },
+
+        "facing=east": { "model": "smf:microphone", "y":270 },
+
+        "facing=south": { "model": "smf:microphone" },
+
+        "facing=west": { "model": "smf:microphone", "y": 90 },
+
+        "facing=north": { "model": "smf:microphone", "y": 180}
+
+    }
+}

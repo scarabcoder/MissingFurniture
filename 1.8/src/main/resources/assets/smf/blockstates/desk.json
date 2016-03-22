@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": {"model": "smf:desk"},
+        
+        "facing=up": { "model": "smf:desk" },
+
+        "facing=east": { "model": "smf:desk", "y":270 },
+
+        "facing=south": { "model": "smf:desk" },
+
+        "facing=west": { "model": "smf:desk", "y": 90 },
+
+        "facing=north": { "model": "smf:desk", "y": 180}
+
+    }
+}

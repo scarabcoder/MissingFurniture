@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": {"model": "smf:3DPrinter"},
+        
+        "facing=up": { "model": "smf:3DPrinter" },
+
+        "facing=east": { "model": "smf:3DPrinter", "y":270 },
+
+        "facing=south": { "model": "smf:3DPrinter" },
+
+        "facing=west": { "model": "smf:3DPrinter", "y": 90 },
+
+        "facing=north": { "model": "smf:3DPrinter", "y": 180}
+
+    }
+}

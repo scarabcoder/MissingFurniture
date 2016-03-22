@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "level=3,normal": {"model": "smf:trashFull3"},
+        
+        "facing=up,level=3": { "model": "smf:trashFull3" },
+
+        "facing=east,level=3": { "model": "smf:trashFull3", "y":270 },
+
+        "facing=south,level=3": { "model": "smf:trashFull3" },
+
+        "facing=west,level=3": { "model": "smf:trashFull3", "y": 90 },
+
+        "facing=north,level=3": { "model": "smf:trashFull3", "y": 180},
+        
+        "level=2,normal": {"model": "smf:trashFull2"},
+        
+        "facing=up,level=2": { "model": "smf:trashFull2" },
+
+        "facing=east,level=2": { "model": "smf:trashFull2", "y":270 },
+
+        "facing=south,level=2": { "model": "smf:trashFull2" },
+
+        "facing=west,level=2": { "model": "smf:trashFull2", "y": 90 },
+
+        "facing=north,level=2": { "model": "smf:trashFull2", "y": 180},
+        
+        "level=1,normal": {"model": "smf:trashFull1"},
+        
+        "facing=up,level=1": { "model": "smf:trashFull1" },
+
+        "facing=east,level=1": { "model": "smf:trashFull1", "y":270 },
+
+        "facing=south,level=1": { "model": "smf:trashFull1" },
+
+        "facing=west,level=1": { "model": "smf:trashFull1", "y": 90 },
+
+        "facing=north,level=1": { "model": "smf:trashFull1", "y": 180},
+        
+        "level=1,normal": {"model": "smf:trashFull1"},
+        
+        "facing=up,level=0": { "model": "smf:TrashEmpty" },
+
+        "facing=east,level=0": { "model": "smf:TrashEmpty", "y":270 },
+
+        "facing=south,level=0": { "model": "smf:TrashEmpty" },
+
+        "facing=west,level=0": { "model": "smf:TrashEmpty", "y": 90 },
+
+        "facing=north,level=0": { "model": "smf:TrashEmpty", "y": 180}
+
+    }
+}

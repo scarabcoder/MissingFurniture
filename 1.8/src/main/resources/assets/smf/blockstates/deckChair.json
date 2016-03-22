@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": {"model": "smf:deckChair", "y":180},
+        
+        "facing=up": { "model": "smf:deckChair" },
+
+        "facing=east": { "model": "smf:deckChair", "y":270 },
+
+        "facing=south": { "model": "smf:deckChair" },
+
+        "facing=west": { "model": "smf:deckChair", "y": 90 },
+
+        "facing=north": { "model": "smf:deckChair", "y": 180}
+
+    }
+}

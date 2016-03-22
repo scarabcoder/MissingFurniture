@@ -1,0 +1,13 @@
+itemGroup.tabMissingFurniture=Scarab's Missing Furniture
+tile.deckChair.name=Deck Chair
+tile.monitor.name=Monitor
+tile.coffeeMachine.name=Espresso Machine
+tile.3DPrinter.name=3D Printer
+tile.coffeeCup.name=Mug (Coffee)
+tile.laptop.name=Laptop
+tile.microphone.name=Microphone
+tile.desk.name=Desk
+tile.lamp.name=Ceiling Light
+tile.shelf.name=Shelf-Table
+tile.cup.name=Mug (Empty)
+tile.filament.name=3D Printer Filament

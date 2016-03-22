@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "inventory": {"model": "smf:lamp"},
+        
+        "facing=up": { "model": "smf:lamp" },
+
+        "facing=east": { "model": "smf:lamp", "y":270 },
+
+        "facing=south": { "model": "smf:lamp" },
+
+        "facing=west": { "model": "smf:lamp", "y": 90 },
+
+        "facing=north": { "model": "smf:lamp", "y": 180}
+
+    }
+}

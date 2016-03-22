@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": {"model": "smf:filament"},
+        
+        "facing=up": { "model": "smf:filament" },
+
+        "facing=east": { "model": "smf:filament", "y":270 },
+
+        "facing=south": { "model": "smf:filament" },
+
+        "facing=west": { "model": "smf:filament", "y": 90 },
+
+        "facing=north": { "model": "smf:filament", "y": 180}
+
+    }
+}
