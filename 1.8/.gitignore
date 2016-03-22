@@ -20,3 +20,11 @@ build
 # other
 eclipse
 run
+.gradle
+settings
+bin
+build
+gradle
+run
+src - Copy
+gradlew.bat
